@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [A more perfect world](README.md)
 * [computer](computer.md)
 
